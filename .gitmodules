@@ -1,0 +1,15 @@
+[submodule "django-auto-filter"]
+	path = django-auto-filter
+	url = https://github.com/weijia/django-auto-filter.git
+[submodule "django_keyval"]
+	path = django_keyval
+	url = https://github.com/weijia/django_keyval.git
+[submodule "django-excel-to-model"]
+	path = django-excel-to-model
+	url = https://github.com/weijia/django-excel-to-model.git
+[submodule "django-tagging-ng"]
+	path = django-tagging-ng
+	url = https://github.com/weijia/django-tagging-ng.git
+[submodule "tagging-app"]
+	path = tagging-app
+	url = https://github.com/weijia/tagging-app.git
